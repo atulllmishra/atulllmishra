@@ -137,7 +137,7 @@ const atul = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=atulllmishra&theme=radical&no-frame=true&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=atulllmishra&theme=radical&no-frame=true&no-stat=false&margin-w=15" alt="GitHub Trophies" />
 </div>
 
 <br />
@@ -148,10 +148,10 @@ const atul = {
   <table border="0">
     <tr>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=atulllmishra&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Atul's GitHub Stats" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=atulllmishra&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Atul's GitHub Stats" />
       </td>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulllmishra&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulllmishra&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
       </td>
     </tr>
   </table>
@@ -170,7 +170,54 @@ const atul = {
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/atulllmishra/atulllmishra/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atulllmishra/atulllmishra/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/atulllmishra/atulllmishra/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/atulllmishra/atulllmishra/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br />
+
+## 🎭 Dev Fun Zone & Random Joke Generator
+
+<div align="center">
+
+  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Random Dev Joke" />
+
+  <br /><br />
+
+  <details>
+    <summary><b>🎁 Click here for Developer Easter Eggs & Fun Stats!</b></summary>
+    <br />
+    <table align="center">
+      <tr>
+        <td>☕ <b>Coffee Transformed</b></td>
+        <td><code>Infinity Cups</code></td>
+      </tr>
+      <tr>
+        <td>🐛 <b>Bugs Created / Squashed</b></td>
+        <td><code>404 / 404 (Perfect Equilibrium)</code></td>
+      </tr>
+      <tr>
+        <td>⌨️ <b>Tabs vs Spaces</b></td>
+        <td><code>2 Spaces (No Debate!)</code></td>
+      </tr>
+      <tr>
+        <td>🌙 <b>Peak Coding Hours</b></td>
+        <td><code>11:00 PM — 3:00 AM</code></td>
+      </tr>
+      <tr>
+        <td>🎧 <b>Code Music Fuel</b></td>
+        <td><code>Lofi & Synthwave Vibes</code></td>
+      </tr>
+      <tr>
+        <td>💡 <b>Rule #1</b></td>
+        <td><code>If it works in production, don't question why! 😉</code></td>
+      </tr>
+    </table>
+  </details>
+
 </div>
 
 <br />
