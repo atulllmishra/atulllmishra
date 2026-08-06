@@ -137,7 +137,7 @@ const atul = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=atulllmishra&theme=radical&no-frame=true&no-stat=false&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=atulllmishra&theme=radical&no-frame=true&no-stat=false&margin-w=15" alt="GitHub Trophies" height="180" style="max-width:100%;"/>
 </div>
 
 <br />
@@ -145,24 +145,24 @@ const atul = {
 ## 📊 GitHub Analytics & Streak
 
 <div align="center">
-  <table border="0">
+  <table border="0" style="margin: 0 auto;">
     <tr>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=atulllmishra&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Atul's GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=atulllmishra&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Atul's GitHub Stats" height="180" style="max-width:100%;"/>
       </td>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulllmishra&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulllmishra&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="180" style="max-width:100%;"/>
       </td>
     </tr>
   </table>
 
   <br />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atulllmishra&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atulllmishra&theme=radical&hide_border=true" alt="GitHub Streak" height="120" style="max-width:100%;"/>
 
   <br /><br />
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atulllmishra&theme=react-dark&hide_border=true" alt="Contribution Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atulllmishra&theme=react-dark&hide_border=true" alt="Contribution Activity Graph" height="120" style="max-width:100%;"/>
 </div>
 
 <br />
@@ -173,51 +173,33 @@ const atul = {
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atulllmishra/atulllmishra/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/atulllmishra/atulllmishra/output/github-contribution-grid-snake.svg">
-    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/atulllmishra/atulllmishra/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/atulllmishra/atulllmishra/output/github-contribution-grid-snake.svg" height="180" style="max-width:100%;"/>
   </picture>
 </div>
 
 <br />
 
-## 🎭 Dev Fun Zone & Random Joke Generator
+## 🎉 Visitor Fun Zone
 
 <div align="center">
-
-  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Random Dev Joke" />
-
+  <!-- Random dev joke -->
+  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Random Dev Joke" style="max-width:100%;" />
   <br /><br />
-
+  <!-- Daily badge of the day -->
+  <img src="https://badges.fyi/badge/Badge%20of%20the%20Day?style=for-the-badge&color=ff69b4" alt="Badge of the Day" style="max-width:100%;" />
+  <br /><br />
   <details>
-    <summary><b>🎁 Click here for Developer Easter Eggs & Fun Stats!</b></summary>
+    <summary><b>🎁 Click to reveal Easter Eggs & Fun Stats</b></summary>
     <br />
     <table align="center">
-      <tr>
-        <td>☕ <b>Coffee Transformed</b></td>
-        <td><code>Infinity Cups</code></td>
-      </tr>
-      <tr>
-        <td>🐛 <b>Bugs Created / Squashed</b></td>
-        <td><code>404 / 404 (Perfect Equilibrium)</code></td>
-      </tr>
-      <tr>
-        <td>⌨️ <b>Tabs vs Spaces</b></td>
-        <td><code>2 Spaces (No Debate!)</code></td>
-      </tr>
-      <tr>
-        <td>🌙 <b>Peak Coding Hours</b></td>
-        <td><code>11:00 PM — 3:00 AM</code></td>
-      </tr>
-      <tr>
-        <td>🎧 <b>Code Music Fuel</b></td>
-        <td><code>Lofi & Synthwave Vibes</code></td>
-      </tr>
-      <tr>
-        <td>💡 <b>Rule #1</b></td>
-        <td><code>If it works in production, don't question why! 😉</code></td>
-      </tr>
+      <tr><td>☕ <b>Coffee Transformed</b></td><td><code>∞ Cups</code></td></tr>
+      <tr><td>🐛 <b>Bugs Created / Squashed</b></td><td><code>404 / 404</code></td></tr>
+      <tr><td>⌨️ <b>Tabs vs Spaces</b></td><td><code>2 Spaces (no debate)</code></td></tr>
+      <tr><td>🌙 <b>Peak Coding Hours</b></td><td><code>23:00‑03:00</code></td></tr>
+      <tr><td>🎧 <b>Code Music Fuel</b></td><td><code>Lofi & Synthwave</code></td></tr>
+      <tr><td>💡 <b>Rule #1</b></td><td><code>If it works, ship it! 🚀</code></td></tr>
     </table>
   </details>
-
 </div>
 
 <br />
