@@ -1,6 +1,6 @@
 <div align="center">
 
-  <!-- Typing Header Banner -->
+
   <a href="https://atulkumarmishra.vercel.app">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00F2FE&center=true&vCenter=true&repeat=true&width=850&height=70&lines=Hi+There!+I'm+Atul+Kumar+Mishra+👋;Full+Stack+Web+Developer+🚀;AI+%26+Tech+Enthusiast+🤖;Building+Elegant+%26+High-Impact+Digital+Experiences+⚡" alt="Typing Header Banner" width="100%" />
   </a>
@@ -9,7 +9,7 @@
     <b><i>Transforming Ideas into Clean Code, Modern Layouts & Scalable Web Applications 💻✨</i></b>
   </p>
 
-  <!-- Visitor Counter & Profile Badges -->
+
   <p align="center">
     <a href="https://github.com/atulllmishra">
       <img src="https://img.shields.io/github/followers/atulllmishra?label=Followers&logo=github&style=for-the-badge&color=00f2fe&logoColor=fff" alt="Followers" />
@@ -22,7 +22,7 @@
     </a>
   </p>
 
-  <!-- Social Media & Contact Links -->
+
   <p align="center">
     <a href="https://atulkumarmishra.vercel.app" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
