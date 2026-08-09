@@ -49,7 +49,7 @@
 
 <hr />
 
-## 💫 About Me
+##  About Me
 
 ```javascript
 const developer = {
@@ -68,16 +68,16 @@ const developer = {
 };
 ```
 
-- 🔭 **Currently Working On**: **[heyBuddy](https://github.com/atulllmishra/heyBuddy)** — An AI-driven real-time doubt-solving & peer-learning platform.
-- 🌱 **Learning & Exploring**: Advanced AI integrations, Next.js Server Actions, performance optimization, & distributed backend architectures.
-- 🌾 **Featured Deployments**: **[Smart-Agri](https://smart-agri-indol.vercel.app)** (Smart Agriculture Web App) & **[ProcureHub](https://procure-hub-eosin.vercel.app)** (Procurement & Vendor Management Platform).
-- 👯 **Open For Collaboration**: Full-stack web projects, open-source Developer tools, and innovative AI web apps.
-- 💬 **Ask Me About**: React, Next.js, Node.js, Express, Firebase, modern CSS layout architecture, and UI/UX design.
-- ⚡ **Fun Fact**: I love turning complex logic into sleek, effortless web interfaces!
+-  **Currently Working On**: **[heyBuddy](https://github.com/atulllmishra/heyBuddy)** — An AI-driven real-time doubt-solving & peer-learning platform.
+-  **Learning & Exploring**: Advanced AI integrations, Next.js Server Actions, performance optimization, & distributed backend architectures.
+-  **Featured Deployments**: **[Smart-Agri](https://smart-agri-indol.vercel.app)** (Smart Agriculture Web App) & **[ProcureHub](https://procure-hub-eosin.vercel.app)** (Procurement & Vendor Management Platform).
+-  **Open For Collaboration**: Full-stack web projects, open-source Developer tools, and innovative AI web apps.
+-  **Ask Me About**: React, Next.js, Node.js, Express, Firebase, modern CSS layout architecture, and UI/UX design.
+-  **Fun Fact**: I love turning complex logic into sleek, effortless web interfaces!
 
 <br />
 
-## 🛠️ Tech Stack & Skills
+##  Tech Stack & Skills
 
 <div align="center">
 
@@ -92,18 +92,18 @@ const developer = {
 
 <br />
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <div align="center">
 
 | Project | Type | Description | Key Technologies | Quick Links |
 | :--- | :---: | :--- | :--- | :---: |
 | 🤖 **[heyBuddy](https://github.com/atulllmishra/heyBuddy)** | `AI & Realtime` | Online AI-powered tutor — real-time doubt-solving & peer-learning platform with interactive chat. | `React` `Node.js` `Firebase` `WebSockets` | [<img src="https://img.shields.io/badge/Code-100000?style=flat-square&logo=github&logoColor=white" />](https://github.com/atulllmishra/heyBuddy) |
-| 🌾 **[Smart-Agri](https://github.com/atulllmishra/smart-agri)** | `Web Application` | Smart agriculture web app designed to streamline farming workflows and crop insights. | `React` `JavaScript` `CSS3` | [<img src="https://img.shields.io/badge/Code-100000?style=flat-square&logo=github&logoColor=white" />](https://github.com/atulllmishra/smart-agri) [<img src="https://img.shields.io/badge/Live_Demo-00C853?style=flat-square&logo=vercel&logoColor=white" />](https://smart-agri-indol.vercel.app) |
-| 📦 **[ProcureHub](https://github.com/atulllmishra/ProcureHub)** | `Full Stack` | Procurement & vendor management platform featuring clean data tables & vendor metrics. | `React` `TailwindCSS` `Node.js` | [<img src="https://img.shields.io/badge/Code-100000?style=flat-square&logo=github&logoColor=white" />](https://github.com/atulllmishra/ProcureHub) [<img src="https://img.shields.io/badge/Live_Demo-00C853?style=flat-square&logo=vercel&logoColor=white" />](https://procure-hub-eosin.vercel.app) |
-| 🎓 **[MCAET Portal & Chatbot](https://github.com/atulllmishra/mcaetchatbot)** | `EdTech Platform` | Educational examination portal integrated with a smart automated query response chatbot. | `Node.js` `Express` `HTML/CSS` | [<img src="https://img.shields.io/badge/Code-100000?style=flat-square&logo=github&logoColor=white" />](https://github.com/atulllmishra/mcaetchatbot) |
-| 🛍️ **[Cosmetic Selling Platform](https://github.com/atulllmishra/Cosmetic-Product-Selling-Platform)** | `E-Commerce` | Feature-rich e-commerce store with product filtering, cart management & secure checkout flow. | `React` `Express` `MongoDB` | [<img src="https://img.shields.io/badge/Code-100000?style=flat-square&logo=github&logoColor=white" />](https://github.com/atulllmishra/Cosmetic-Product-Selling-Platform) |
-| 💼 **[Developer Portfolio](https://github.com/atulllmishra/myportfolio)** | `Portfolio` | Modern responsive developer portfolio showcasing project highlights, bio & contact form. | `React` `TypeScript` `TailwindCSS` | [<img src="https://img.shields.io/badge/Code-100000?style=flat-square&logo=github&logoColor=white" />](https://github.com/atulllmishra/myportfolio) [<img src="https://img.shields.io/badge/Live_Demo-00C853?style=flat-square&logo=vercel&logoColor=white" />](https://atulkumarmishra.vercel.app) |
+|  **[Smart-Agri](https://github.com/atulllmishra/smart-agri)** | `Web Application` | Smart agriculture web app designed to streamline farming workflows and crop insights. | `React` `JavaScript` `CSS3` | [<img src="https://img.shields.io/badge/Code-100000?style=flat-square&logo=github&logoColor=white" />](https://github.com/atulllmishra/smart-agri) [<img src="https://img.shields.io/badge/Live_Demo-00C853?style=flat-square&logo=vercel&logoColor=white" />](https://smart-agri-indol.vercel.app) |
+|  **[ProcureHub](https://github.com/atulllmishra/ProcureHub)** | `Full Stack` | Procurement & vendor management platform featuring clean data tables & vendor metrics. | `React` `TailwindCSS` `Node.js` | [<img src="https://img.shields.io/badge/Code-100000?style=flat-square&logo=github&logoColor=white" />](https://github.com/atulllmishra/ProcureHub) [<img src="https://img.shields.io/badge/Live_Demo-00C853?style=flat-square&logo=vercel&logoColor=white" />](https://procure-hub-eosin.vercel.app) |
+|  **[MCAET Portal & Chatbot](https://github.com/atulllmishra/mcaetchatbot)** | `EdTech Platform` | Educational examination portal integrated with a smart automated query response chatbot. | `Node.js` `Express` `HTML/CSS` | [<img src="https://img.shields.io/badge/Code-100000?style=flat-square&logo=github&logoColor=white" />](https://github.com/atulllmishra/mcaetchatbot) |
+|  **[Cosmetic Selling Platform](https://github.com/atulllmishra/Cosmetic-Product-Selling-Platform)** | `E-Commerce` | Feature-rich e-commerce store with product filtering, cart management & secure checkout flow. | `React` `Express` `MongoDB` | [<img src="https://img.shields.io/badge/Code-100000?style=flat-square&logo=github&logoColor=white" />](https://github.com/atulllmishra/Cosmetic-Product-Selling-Platform) |
+|  **[Developer Portfolio](https://github.com/atulllmishra/myportfolio)** | `Portfolio` | Modern responsive developer portfolio showcasing project highlights, bio & contact form. | `React` `TypeScript` `TailwindCSS` | [<img src="https://img.shields.io/badge/Code-100000?style=flat-square&logo=github&logoColor=white" />](https://github.com/atulllmishra/myportfolio) [<img src="https://img.shields.io/badge/Live_Demo-00C853?style=flat-square&logo=vercel&logoColor=white" />](https://atulkumarmishra.vercel.app) |
 
 </div>
 
@@ -117,7 +117,7 @@ const developer = {
 
 <br />
 
-## 📊 GitHub Analytics & Streak Overview
+##  GitHub Analytics & Streak Overview
 
 <div align="center">
 
@@ -164,7 +164,7 @@ const developer = {
 
 <br />
 
-## 🐍 Contribution Snake Arcade
+##  Contribution Snake Arcade
 
 <div align="center">
   <p><i>Watch the contribution snake devour commits across the activity grid! 🐍</i></p>
@@ -181,7 +181,7 @@ const developer = {
 
 <br />
 
-## 🤝 Let's Connect & Collaborate
+##  Let's Connect & Collaborate
 
 <div align="center">
 
@@ -204,7 +204,7 @@ Whether you want to discuss full-stack development, AI integrations, or work on 
 <div align="center">
   <p>
     <i>Designed & Crafted with ❤️ by <b>Atul Kumar Mishra</b></i><br />
-    ⭐ <i>If you like my projects, feel free to star the repositories — it means a lot!</i> ⭐
+     <i>If you like my projects, feel free to star the repositories — it means a lot!</i> 
   </p>
   <a href="#top"><b>🔝 Back to Top</b></a>
 </div>
