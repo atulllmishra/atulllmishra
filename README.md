@@ -141,7 +141,7 @@ I believe great software should feel fast, effortless, and solve tangible human 
     <tr>
       <td width="100%" align="center">
         <a href="https://github.com/atulllmishra">
-          <img width="100%" src="https://readme-activity-graph.vercel.app/graph?username=atulllmishra&theme=radical&hide_border=true" alt="Contribution Activity Graph" />
+          <img width="100%" src="https://readme-activity-graph.vercel.app/graph?username=atulllmishra&theme=react-dark&hide_border=true" alt="Contribution Activity Graph" />
         </a>
       </td>
     </tr>
